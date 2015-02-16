@@ -12,9 +12,7 @@ Entheogen color scheme is designed to work with the latest development builds of
 
 ### Using Sublime Package Control
 
-Enthegen has not been accepted into package control yet.
-
-~~If you are using [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Entheogen Color Scheme via the `Package Control: Install Package` menu item. The Entheogen color scheme is listed as `Entheogen Color Scheme` in the packages list.~~
+If you are using [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Entheogen Color Scheme via the `Package Control: Install Package` menu item. The Entheogen color scheme is listed as `Entheogen Color Scheme` in the packages list.
 
 ### Using Git
 
@@ -39,4 +37,4 @@ While inside the `Packages` directory, clone the color scheme repository using t
 
 ## License
 
-Entheogen color scheme is licensed under the [WTFPL License](http://www.wtfpl.net/). You are free to do what the fuck you want.
+Entheogen color scheme is licensed under the [WTFPL License](http://www.wtfpl.net/).
